@@ -90,8 +90,7 @@ Sao chép
 Chỉnh sửa
 python receiver_app.py
 Sau khi chạy, truy cập http://127.0.0.1:5000 trên cả hai máy.
-![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777135305801_04e6408d83a4598fc8ef8156ae8ba4dd.jpg?raw=true)
-![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777142464651_bd47e0507e99af953ca74bdadfb7f849.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/8ef5c8f2-79ca-41ca-9b68-f5a63e43d17e)
 
 2. Bắt đầu Handshake
 Trên bên gửi, nhấn nút * Bắt đầu Handshake
