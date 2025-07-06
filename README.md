@@ -107,7 +107,7 @@ Nhập: email người nhận, tiêu đề, nội dung
 
 Nhấn "Mã hóa & Gửi"
 
-![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777148731872_e54e5d93f9dc081bcce9345e288c34e2.jpg?raw=true)
+![Gửi Email Có Giới Hạn Thời Gian](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777148731872_e54e5d93f9dc081bcce9345e288c34e2.jpg?raw=true)
 
 4. Kiểm tra trạng thái gửi
 Sau khi gửi thành công, sẽ có:
