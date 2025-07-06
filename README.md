@@ -1,4 +1,4 @@
-# 📧 Gửi Email Có Giới Hạn Thời Gian
+📧 Gửi Email Có Giới Hạn Thời Gian
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxifkwco-AHYuf_bRHlJRxqgM50ZSyUorZfg&s" alt="Email time‑limit illustration">
 </p>
@@ -90,14 +90,15 @@ Sao chép
 Chỉnh sửa
 python receiver_app.py
 Sau khi chạy, truy cập http://127.0.0.1:5000 trên cả hai máy.
-![image](https://github.com/user-attachments/assets/d1572174-b9a5-44f7-b7c8-769db9bdac3e)
+![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777135305801_04e6408d83a4598fc8ef8156ae8ba4dd.jpg?raw=true)
+![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777142464651_bd47e0507e99af953ca74bdadfb7f849.jpg?raw=true)
 
 2. Bắt đầu Handshake
 Trên bên gửi, nhấn nút * Bắt đầu Handshake
 
-🖼️
+![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777143179952_4aa3bc8352e8ffa9bf14be64affec93d.jpg?raw=true)
+![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777143664596_5c117949baf9e5ebfe3a46cd09c5a371.jpg?raw=true))
 
-🖼️
 
 3. Gửi email
 Trên giao diện gửi, chọn file .webm, .json, hoặc .jpg
@@ -106,7 +107,7 @@ Nhập: email người nhận, tiêu đề, nội dung
 
 Nhấn "Mã hóa & Gửi"
 
-🖼️
+![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777148731872_e54e5d93f9dc081bcce9345e288c34e2.jpg?raw=true)
 
 4. Kiểm tra trạng thái gửi
 Sau khi gửi thành công, sẽ có:
@@ -115,7 +116,7 @@ Sau khi gửi thành công, sẽ có:
 
 Trạng thái "Đã hết hạn" nếu quá thời gian
 
-🖼️
+![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777152315411_a4af23cb62e2796785267b1ff4838489.jpg?raw=true)
 
 5. Giải mã email
 Bên nhận chọn email từ lịch sử
@@ -130,7 +131,7 @@ Nhập thông tin người gửi và tiêu đề nếu cần
 
 Nhấn "Giải mã Email"
 
-🖼️
+![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777152315411_a4af23cb62e2796785267b1ff4838489.jpg)
 
 6. Kết quả giải mã
 Hiển thị thông tin:
@@ -142,8 +143,6 @@ Tiêu đề
 Nội dung (nếu là text)
 
 Đường dẫn file giải mã
+![image](https://github.com/GiangNguyen204/guiemailcothoigian/blob/04ff555c5709ea46f0ebc61ca59decc7c9c14e7e/%E1%BA%A3nh/z6777157215459_a63dc5ecc8bdf1d9b71c63fb68185a69.jpg?raw=true)
 
-🖼️
 
-7. Gửi tiếp email khác
-🖼️
